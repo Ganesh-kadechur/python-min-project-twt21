@@ -1,6 +1,6 @@
-# Python Mini Quiz (TWT 21 Project)
+# Python Mini Projects – 21 Project Challenge
 
-This is a simple CLI-based Python quiz app built as part of the "21 Python Projects" series by Code with Tim.
+This is a simple CLI-based Python  app built as part of the "21 Python Projects" series by Code with Tim
 
 ## Features
 - Multiple-choice questions
@@ -10,4 +10,4 @@ This is a simple CLI-based Python quiz app built as part of the "21 Python Proje
 ## How to Run
 
 ```bash
-python quiz.py
+python filename.py
