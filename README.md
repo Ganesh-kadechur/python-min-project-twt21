@@ -11,3 +11,11 @@ This is a simple CLI-based Python  app built as part of the "21 Python Projects"
 
 ```bash
 python filename.py
+
+```
+
+# List of Projects
+- 1. quiz app
+- 2. number guessing game 
+- 3. rock sicosser paper game
+- 4. adventure game 
